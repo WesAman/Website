@@ -10,15 +10,15 @@ import { SandpackCSS } from './blog/[slug]/sandpack';
 export const metadata: Metadata = {
   metadataBase: new URL('https://leerob.io'),
   title: {
-    default: 'Lee Robinson',
-    template: '%s | Lee Robinson',
+    default: 'wes aman',
+    template: '%s | wes aman',
   },
-  description: 'Developer, writer, and creator.',
+  description: 'developer, hustler, and problem solver.',
   openGraph: {
-    title: 'Lee Robinson',
+    title: 'wes aman',
     description: 'Developer, writer, and creator.',
     url: 'https://leerob.io',
-    siteName: 'Lee Robinson',
+    siteName: 'wes aman',
     locale: 'en_US',
     type: 'website',
   },

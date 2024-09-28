@@ -76,12 +76,15 @@ export default function WorkPage() {
 
     <br>
     </br>
-    
-            • ROcket gif/video hosted via imgur      <img src = "https://i.imgur.com/Uk32dr7.jpeg"></img>
-            • Rocket Picture of some graphs?         <img src = "https://i.imgur.com/Uk32dr7.jpeg"></img>
-            • Rocket Picture of the fuel cell        <img src = "https://i.imgur.com/Uk32dr7.jpeg"></img>
+        <br></br>
+            • Rocket gif/video     <a href="https://i.imgur.com/vMWeRpj.mp4" target="_blank" className="video-link">Watch the Rocket Video (Static Test)</a>
+            <br></br>
 
 
+            • Rocket Picture of some graphs?         <img src = "https://i.imgur.com/kcoJ4Uo.png"></img>
+            • Rocket Picture of the fuel cell        <img src = "https://i.imgur.com/pzW6KXo.jpeg"></img>
+            • Rocket Picture of the fuel cell        <img src = "https://i.imgur.com/4S7JQjS.png"></img>
+            
         
     
     <br></br>
@@ -115,6 +118,16 @@ export default function WorkPage() {
             efficiencies, and securing increased funding through meticulously prepared proposals.
             This project showcased my ability to lead complex engineering tasks, manage significant budgetary 
             responsibilities, and drive advancements in experimental rocketry for the college.
+            <br></br>
+            • Rocket Picture (me)       <img src = "https://i.imgur.com/6EY35nS.jpeg"></img>
+            <br></br>
+            • Static Test Assembly        <img src = "https://i.imgur.com/L6FGQZS.jpeg"></img>
+            <br></br>
+            • Rocket Picture of the fuel cell        <img src = "https://i.imgur.com/ZRcwUCL.jpeg"></img>
+            <br></br>
+            • Static Test - Post Test        <img src = "https://i.imgur.com/UfjufAL.jpeg"></img>
+
+
         </p>
       </div>
     </section>

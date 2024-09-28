@@ -19,59 +19,56 @@ export default function WorkPage() {
       <h1 className="font-medium text-2xl mb-8 tracking-tighter">my work</h1>
       <div className="prose prose-neutral dark:prose-invert">
         <p>
-          Plenty of people in life have told me im pretty lucky. I never understood why that was until i reached my twenties.
-           Upon sharing this exerience with many of my life mentors, they all similarily told me that luck is spelled <b>'W' 'O' 'R' 'K'</b>. It just so happens I love to solve problems that arise in the areas I work. {' '}
-          <Link href="/blog/developer-experience">solve problems</Link> 
+          plenty of people in life have told me im pretty lucky. i never understood why that was until i reached my twenties.
+           upon sharing this exerience with many of my life mentors, they all similarily told me that luck is spelled <b>'W' 'O' 'R' 'K'</b>. it just so happens i love to <Link href="/blog/developer-experience">solve problems</Link>  that arise in the areas i work. {' '}
+          
         </p>
         <hr className="my-6 border-neutral-100 dark:border-neutral-800" />
         <h2 className="font-medium text-xl mb-1 tracking-tighter">Wes' Whips</h2>
         <p className="text-neutral-600 dark:text-neutral-400 text-sm">
-          [Sales]  • Owner, 2018 - 2024
+          [Sales]  • Owner, 2018 — 2024
         </p>
         <p>
-        Inspired by my father's ethos to always stay industrious through either passive or active income streams,
-        my journey began as a young man. I would scour Craigslist and scan busy city streets for cars adorned with "For Sale"
+        inspired by my father's ethos to always stay industrious through either passive or active income streams,
+        my journey began as a young man. i would scour craigslist and scan busy city streets for cars adorned with "For Sale"
          signs. 
-         Emulating my father's knack for seizing every possible deal and infusing my own unique approach, I ventured into the world of car flipping.
+         emulating my father's knack for seizing every possible deal and infusing my own unique approach, i ventured into the world of car flipping.
 
-        <br></br>Surprisingly, despite living in various parts of Southern California, the car flipping community remained relatively niche.
-         This didn’t deter me; instead, I established a robust network of auctioneers, fellow flippers, and enthusiasts who preferred cash transactions.
-          My connections grew to include passionate project undertakers and even notable figures such as a 
-           former Tech CEO, prominent YouTube creators, and the son of a renowned musician.
+        <br></br><br></br>surprisingly, despite living in various parts of southern california, the car flipping community remained relatively niche.
+         this didn’t deter me; instead, i established a robust network of auctioneers, fellow flippers, and enthusiasts who preferred cash transactions.
+          my connections grew to include passionate project undertakers and even notable figures such as a 
+           former tech CEO, prominent youtube creators, and the son of a renowned musician.
            <br></br>
           <br></br>
-In summary I:
-<br></br>
-• Founded a local enterprise focused on buying and selling used cars.
-<br></br>
-• Developed a reliable network of buyers and sellers leveraging major online platforms.
-<br></br>
-• Managed and grew a portfolio to $320k in closed sales volume, facilitating transactions that often exceeded $100k.
-<br></br><br></br>
-This endeavor was not just about transactions but about crafting stories and opportunities from each vehicle that passed through my hands.
-
          
         </p>
         <ul>
           <li>
-          the vehicles I was able make some significant wins on.
-{' '}
+          the vehicles i was able make some significant wins on.
+          {' '}
+          
             <img src = "https://i.postimg.cc/wMJVCrK2/IMG-0958.jpg"></img>
 
             <img src = "https://i.postimg.cc/L61B5wb3/IMG-4600.jpg"></img>
 
             <img src = "https://i.postimg.cc/3wRZ8N5d/IMG-1029.jpg"></img>
-            <img src = "https://i.postimg.cc/85dgTZVp/IMG-3541.jpg"></img>
+            <img src = "https://i.imgur.com/Bl0VEAf.png"></img>
             <img src = "https://i.postimg.cc/4ywP59pb/IMG-6481.jpg"></img>
 
             <a href="https://twitter.com/kelseyhightower/status/1105985400110112768">
             </a>{' '}
-            back into the product roadmap. We spoke at{' '}
-            conferences wrote
-            blog posts, and created videos. We built open-source examples and
-            contributed back to the product.
+           
           </li>
-          <li>
+          <li>in summary i:
+<br></br>
+• founded a local enterprise focused on buying and selling used cars.
+<br></br>
+• developed a reliable network of buyers and sellers leveraging major online platforms.
+<br></br>
+• managed and grew a portfolio to $320k in closed sales volume, facilitating transactions that often exceeded $100k.
+<br></br><br></br>
+this endeavor was not just about transactions but about crafting stories and opportunities from each vehicle that passed through my hands.
+{/* 
             In 2022, I was promoted to VP of Developer Experience, now also
             leading our product documentation team. My team created a{' '}
             <a href="https://nextjs.org/learn">new free course</a> to teach
@@ -85,22 +82,19 @@ This endeavor was not just about transactions but about crafting stories and opp
             <a href="https://astro.build/blog/vercel-official-hosting-partner/">
               Astro
             </a>{' '}
-            and sponsoring individuals and projects.
-          </li>
-          <li>
-            
+            and sponsoring individuals and projects. */}
           </li>
         </ul>
         <p>
-          Since I joined Vercel in 2020, Next.js active developers have grown
+          {/* Since I joined Vercel in 2020, Next.js active developers have grown
           1000%, now at ~900k. Next.js is now a top 10 software project on
           GitHub with <Stars />. It's used by Walmart, ChatGPT, Starbucks, Okta,
-          Datastax, Notion, and <a href="https://nextjs.org/showcase">more</a>.
+          Datastax, Notion, and <a href="https://nextjs.org/showcase">more</a>. */}
         </p>
         <hr className="my-6 border-neutral-100 dark:border-neutral-800" />
         <h2 className="font-medium text-xl mb-1 tracking-tighter">Overflow Events</h2>
         <p className="text-neutral-600 dark:text-neutral-400 text-sm">
-          Account Executive / Project Manager
+        [Sales] • Account Executive / Project Manager, 2019 — 2020
         </p>
         <p>
         In 2019 I started a company with some friends involving nightlife, music, and entertainment. 
@@ -123,16 +117,20 @@ This endeavor was not just about transactions but about crafting stories and opp
 
         </p>
         <hr className="my-6 border-neutral-100 dark:border-neutral-800" />
-        <h2 className="font-medium text-xl mb-1 tracking-tighter">Workiva</h2>
+        <h2 className="font-medium text-xl mb-1 tracking-tighter">Vans Skate Shop</h2>
         <p className="text-neutral-600 dark:text-neutral-400 text-sm">
-          Software Engineer, 2015 — 2018
+        [Sales] • Sales Associate 2018 — 2019
         </p>
         <p>
-          Workiva ($WK) is a cloud platform for data reporting and compliance.
-          During my time at Workiva, I gained my first production experience
-          using React. I worked on tooling to help predict and alert and
-          regressions in our SaaS platform, building a product similar to
-          open-source tools like Sentry.
+        • Achieved Sales Associate of the month 5x by meeting and exceeding the daily/weekly/monthly sale goals.
+        <br></br>
+        • Generated reports to analyze and improve sales of team members to optimize daily sale goals.
+        <br></br>
+        • Assisting customers in a manner to ensure their needs while leveraging high customer satisfaction.
+        <br></br>
+        • Engaged with managers and supervisors to raise awareness among diverse demographics, using direct marketing
+        on social media platforms like Instagram and Facebook to increase foot traffic during seasonal or sales events.
+        <br></br>
         </p>
       </div>
     </section>
