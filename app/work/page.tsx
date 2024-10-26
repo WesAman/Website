@@ -105,7 +105,7 @@ this endeavor was not just about transactions but about crafting stories and opp
 
           <br>
           </br>
-            There are a ton of pitfalls to fall into, my success in the industryb was due to me preemptively tackling
+            There are a ton of pitfalls to fall into, my success in the industry was due to me preemptively tackling
             challenes by implementing strategies that I had seen succeed and steered clear of issues that tripped
             up others. My proactive approaches meant that when problems arose, they were swiftly managed using solutions
             I had already seen in action.
